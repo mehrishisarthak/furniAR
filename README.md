@@ -9,11 +9,6 @@ FurniAR is an innovative Flutter mobile app that lets users preview and visualiz
 - Beautiful E-Commerce UI – Modern, responsive grid, product detail, cart, and order tracking
 - Interactive 3D Model Viewer – Embedded Sketchfab players for full model rotation and inspection
 - AR Placement – Place real furniture in your space using ARCore/ARKit; supports any GLB file
-- Multi-Role Support – Buyers, admins, and sellers, all on one app
-- Firebase Integration – Cart, payments, customer reviews, delivery status updates, live sync
-- Dark & Light Theme – Professional UI adapts to system theme
-- Delivery Tracking – Sellers can update, buyers can see real-time ETA (future: full delivery API)
-- Debug/Performance Mode – Use lightweight models (like “Rubber Duck” or “Box”) for low-end devices
 
 ---
 
